@@ -1,0 +1,1 @@
+export 'dealer.dart';
